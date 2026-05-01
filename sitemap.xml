@@ -8,25 +8,9 @@
   <!-- Homepage / Main Page -->
   <url>
     <loc>https://krishnamango.netlify.app/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
-  </url>
-
-  <!-- Product: 10 KG Box -->
-  <url>
-    <loc>https://krishnamango.netlify.app/#order</loc>
-    <lastmod>2026-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
-
-  <!-- WhatsApp Order Page -->
-  <url>
-    <loc>https://krishnamango.netlify.app/#contact</loc>
-    <lastmod>2026-04-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
   </url>
 
 </urlset>

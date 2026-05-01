@@ -1,3 +1,20 @@
+# Allow all search engines to crawl
 User-agent: *
 Allow: /
+Disallow: /.*\.git
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Sitemap for search engines
 Sitemap: https://krishnamango.netlify.app/sitemap.xml
+
+# Geo-targeting for Ahmedabad, Gujarat, India
+# This site is optimized for Ahmedabad location
